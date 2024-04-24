@@ -1,0 +1,1 @@
+n = 2** int(input("Give me the size of the n: "))  # size of the n, cosidered the list's 2^n*2^n 
